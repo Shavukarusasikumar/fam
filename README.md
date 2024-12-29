@@ -90,7 +90,7 @@ The UI design adheres closely to the specifications outlined in the Figma design
 
 ## 📜 Assignment Details
 
-The full details of the internship assignment, API schema, and design requirements are documented [here](assignment_details.md).
+The full details of the internship assignment, API schema, and design requirements are documented [here](https://fampay.notion.site/Flutter-Assignment-14ca06dce86080c4a7c8e8e2f2d911d0).
 
 ## 📂 Deliverables
 
