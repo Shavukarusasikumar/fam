@@ -29,7 +29,7 @@ This project is a Flutter-based application that dynamically displays contextual
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shavukarusasikumar/fampay.git
+   git clone https://github.com/Shavukarusasikumar/fam.git
    cd contextual-cards-app
    ```
 
